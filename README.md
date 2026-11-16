@@ -2,7 +2,7 @@
 
 Dev logs for my Dubai homelab — what I changed, why I chose it, and how I set it up. Written so future-me can rebuild things at 2am, and so the same notes can turn into blog posts or guides later.
 
-**Lab shape (Nov 2026):** Synology DS923+ (`dna-nas`) stays media + backups over NFS. The GEEKOM mini PC now runs most Docker compute in Arcane (n8n, the *arrs, and the apps moved in logs #5–#6). Plex, Jellyfin and Home Assistant are still on the NAS.
+**Lab shape (Nov 2026):** Synology DS923+ (`dna-nas`) stays media + backups over NFS. The GEEKOM mini PC now runs most Docker compute in Arcane, including Plex and Jellyfin (moved in log #7). Home Assistant is still on the NAS.
 
 ## Entries
 
@@ -14,6 +14,7 @@ Dev logs for my Dubai homelab — what I changed, why I chose it, and how I set 
 | 04 | 2026-11-11–12 | [Ethernet, headless RDP and MausBot](logs/2026-11-12-04-ethernet-headless-rdp-and-mausbot.md) |
 | 05 | 2026-11-12 | [n8n and an MCP gateway](logs/2026-11-12-05-n8n-and-an-mcp-gateway.md) |
 | 06 | 2026-11-14–15 | [Letting the bot do the moving](logs/2026-11-14-06-letting-the-bot-do-the-moving.md) |
+| 07 | 2026-11-16 | [The big ones and a VPN](logs/2026-11-16-07-the-big-ones-and-a-vpn.md) |
 
 ## Conventions
 
